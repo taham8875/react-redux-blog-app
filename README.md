@@ -13,7 +13,11 @@ To test and use my this blog : https://react-redux-blog-app-snowy.vercel.app
 
 # Demo
 
-<video src="README/video.mp4"></video>
+
+
+https://user-images.githubusercontent.com/92264237/221366607-a5ac46bb-8616-4413-ad15-c5923497ec78.mp4
+
+
 
 # Features
 
